@@ -4,7 +4,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayabudmir&layout=compact)
 
-<img src="https://yourgifurl.com/image.gif" width="100%">
+## 🌈 My 3D Contribution Graph
+![Profile 3D](https://github.com/zaybudmir/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 
