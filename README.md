@@ -1,19 +1,8 @@
 # Hi there, I'm Zaya! 👋
-
 ![Banner Image](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
-
 ## About Me 🚀
-
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
-
-https://camo.githubusercontent.com/39f6e752bd1dc00830f04f076db2d5e3a2ab9ec5d69feff109f6fa93bc55d4b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d6a6f6c6c79
+ I am a student studying web development. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 ## My Skills 🧠
 
@@ -22,6 +11,12 @@ https://camo.githubusercontent.com/39f6e752bd1dc00830f04f076db2d5e3a2ab9ec5d69fe
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+## 📊 My GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?zayabudmir&repo=github-readme-stats&cache_seconds=86400&theme=jolly)
+
+
+
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
