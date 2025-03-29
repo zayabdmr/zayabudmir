@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/7b28376f-f252-472a-b403-84fc712f5a51)
-                         ### Hey! Welcome to my profile! I'm Zaya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hey! Welcome to my profile! I'm Zaya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayabudmir&layout=compact)
 
@@ -12,7 +12,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 
