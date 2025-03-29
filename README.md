@@ -13,8 +13,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
  
 ## 📊 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayabudmir&theme=tokyonigh)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayabudmir&layout=compact&theme=tokyonigh)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayabudmir&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayabudmir&layout=compact&theme=dracula)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zayabudmir&theme=tokyonight)  
 
 
