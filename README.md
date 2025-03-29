@@ -1,6 +1,7 @@
 # Hi there, I'm Zaya! 👋
 
-![Banner Image](https://ca-times.brightspotcdn.com/dims4/default/c9543cf/2147483647/strip/true/crop/4000x5000+0+0/resize/1200x1500!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8b%2Fa3%2F4f560dd44cc9a78cda59f1badf73%2Fkawaii-pink.png)
+![Banner Image](![image](https://github.com/user-attachments/assets/5f74d059-ced0-4c52-96ea-3c026efb963b)
+)
 
 ## About Me 🚀
 
