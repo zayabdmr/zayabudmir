@@ -1,7 +1,8 @@
 # Hi there, I'm Zaya! 👋
 
-![Banner Image](![image](https://github.com/user-attachments/assets/5f74d059-ced0-4c52-96ea-3c026efb963b)
+![Banner Image](![image](https://github.com/user-attachments/assets/3d69537d-bfec-4625-bcbf-f25b7a39768d)
 )
+
 
 ## About Me 🚀
 
