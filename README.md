@@ -13,7 +13,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 📊 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?zayabudmir&repo=github-readme-stats&cache_seconds=86400&theme=jolly)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayabudmur&repo=github-readme-stats&cache_seconds=86400&theme=jolly)
 
 
 
