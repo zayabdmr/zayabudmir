@@ -2,7 +2,9 @@
 
 ![zayabudmir's Stats](https://github-readme-stats.vercel.app/api?username=zayabudmir&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayabudmir&layout=compact)
+
+<img src="https://yourgifurl.com/image.gif" width="100%">
 
 
 
