@@ -1,7 +1,6 @@
 # Hi there, I'm Zaya! 👋
 
-![Banner Image](![image](https://github.com/user-attachments/assets/3d69537d-bfec-4625-bcbf-f25b7a39768d)
-)
+![Banner Image](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
 
 ## About Me 🚀
