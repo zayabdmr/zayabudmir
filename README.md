@@ -15,7 +15,7 @@
 ## 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayabudmir&theme=jolly)
 
-https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayabudmir&show_icons=true&theme=radical)
 
 
 
