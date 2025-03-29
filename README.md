@@ -13,6 +13,8 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - 📫 How to reach me: **[your email address or other contact information]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
+https://camo.githubusercontent.com/39f6e752bd1dc00830f04f076db2d5e3a2ab9ec5d69feff109f6fa93bc55d4b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d6a6f6c6c79
+
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
