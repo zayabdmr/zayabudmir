@@ -14,8 +14,12 @@
  
 ## 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayabudmir&theme=jolly)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayabudmir&show_icons=true&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayabudmir&layout=compact&theme=jolly)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zayabudmir&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayabudmir&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayabudmir&show_icons=true&theme=radical)
+
 
 
 
