@@ -2,7 +2,8 @@
 
 ![zayabudmir's Stats](https://github-readme-stats.vercel.app/api?username=zayabudmir&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=Frontend+Developer;ReactJS+Lover;Passionate+Coder)
+![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
